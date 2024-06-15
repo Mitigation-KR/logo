@@ -1,0 +1,14 @@
+{
+	"name": "@mitigation-kr/logo",
+	"version": "0.0.0",
+	"description": "Logo assets for Mitigation KR",
+	"author": "Abiria",
+	"files": [
+		"assets"
+	],
+	"main": "./assets/svg/white.svg",
+	"scripts": {
+		"build": "./build-svg.sh"
+	},
+	"private": true
+}
